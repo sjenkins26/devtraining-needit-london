@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <action_type_parent/>
+        <comment>Update NeedIt State to Closed Complete</comment>
+        <compiled_snapshot display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="NeedIt Fulfillment">f034d01bdb9e33001a96112039961963</flow>
+        <order>4.1</order>
+        <parent_ui_id>eb6780f3-3e9a-4276-99af-2d1185aa98f7</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>sjenkins</sys_created_by>
+        <sys_created_on>2019-07-02 18:22:50</sys_created_on>
+        <sys_id>3a430557db5273001a961120399619cd</sys_id>
+        <sys_mod_count>92</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_instance_3a430557db5273001a961120399619cd</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-03 14:53:32</sys_updated_on>
+        <ui_id>2e4cf3e6-5cee-425b-af58-e682766184ea</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=3a430557db5273001a961120399619cd"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>3a430557db5273001a961120399619cd</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>sjenkins</sys_created_by>
+        <sys_created_on>2019-07-02 18:37:19</sys_created_on>
+        <sys_id>03968dd7db5273001a961120399619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sjenkins</sys_updated_by>
+        <sys_updated_on>2019-07-02 18:37:19</sys_updated_on>
+        <value>x_58872_needit_needit</value>
+        <variable display_value="">b5d01916c31332002841b63b12d3aec9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>3a430557db5273001a961120399619cd</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>sjenkins</sys_created_by>
+        <sys_created_on>2019-07-02 18:37:19</sys_created_on>
+        <sys_id>4f968dd7db5273001a961120399619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sjenkins</sys_updated_by>
+        <sys_updated_on>2019-07-02 18:37:19</sys_updated_on>
+        <value>state=3</value>
+        <variable display_value="">02d01916c31332002841b63b12d3aeee</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>3a430557db5273001a961120399619cd</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>sjenkins</sys_created_by>
+        <sys_created_on>2019-07-02 18:22:50</sys_created_on>
+        <sys_id>be430557db5273001a961120399619d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sjenkins</sys_updated_by>
+        <sys_updated_on>2019-07-02 18:22:50</sys_updated_on>
+        <value>x_58872_needit_needit</value>
+        <variable display_value="">1fd27c8cc3c632002841b63b12d3aeb9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>3a430557db5273001a961120399619cd</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>sjenkins</sys_created_by>
+        <sys_created_on>2019-07-02 18:22:50</sys_created_on>
+        <sys_id>fa430557db5273001a961120399619d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sjenkins</sys_updated_by>
+        <sys_updated_on>2019-07-02 18:22:50</sys_updated_on>
+        <value>state=3</value>
+        <variable display_value="">e7d270ccc3c632002841b63b12d3ae8b</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=3a430557db5273001a961120399619cd"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>3a430557db5273001a961120399619cd</id>
+        <sys_created_by>sjenkins</sys_created_by>
+        <sys_created_on>2019-07-02 18:37:19</sys_created_on>
+        <sys_id>0b968dd7db5273001a961120399619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sjenkins</sys_updated_by>
+        <sys_updated_on>2019-07-02 18:37:19</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value>{{Created_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>3a430557db5273001a961120399619cd</id>
+        <sys_created_by>sjenkins</sys_created_by>
+        <sys_created_on>2019-07-02 18:22:50</sys_created_on>
+        <sys_id>b6430557db5273001a961120399619d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sjenkins</sys_updated_by>
+        <sys_updated_on>2019-07-02 18:22:50</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value>{{Created_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>3a430557db5273001a961120399619cd</id>
+        <sys_created_by>sjenkins</sys_created_by>
+        <sys_created_on>2019-07-02 18:37:19</sys_created_on>
+        <sys_id>47968dd7db5273001a961120399619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sjenkins</sys_updated_by>
+        <sys_updated_on>2019-07-02 18:37:19</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>3a430557db5273001a961120399619cd</id>
+        <sys_created_by>sjenkins</sys_created_by>
+        <sys_created_on>2019-07-02 18:22:50</sys_created_on>
+        <sys_id>f2430557db5273001a961120399619d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sjenkins</sys_updated_by>
+        <sys_updated_on>2019-07-02 18:22:50</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>3a430557db5273001a961120399619cd</id>
+        <sys_created_by>sjenkins</sys_created_by>
+        <sys_created_on>2019-07-02 18:22:50</sys_created_on>
+        <sys_id>7a430557db5273001a961120399619d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sjenkins</sys_updated_by>
+        <sys_updated_on>2019-07-02 18:22:50</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>3a430557db5273001a961120399619cd</id>
+        <sys_created_by>sjenkins</sys_created_by>
+        <sys_created_on>2019-07-02 18:37:19</sys_created_on>
+        <sys_id>cb968dd7db5273001a961120399619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sjenkins</sys_updated_by>
+        <sys_updated_on>2019-07-02 18:37:19</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>
