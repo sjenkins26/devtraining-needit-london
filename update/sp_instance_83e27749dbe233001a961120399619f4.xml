@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>lg</size>
+        <sp_column display_value="1">0be2f349dbe233001a961120399619a9</sp_column>
+        <sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>sjenkins</sys_created_by>
+        <sys_created_on>2019-07-08 17:39:33</sys_created_on>
+        <sys_id>83e27749dbe233001a961120399619f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Good Afternoon, Shelita! How can we help?</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_instance_83e27749dbe233001a961120399619f4</sys_update_name>
+        <sys_updated_by>sjenkins</sys_updated_by>
+        <sys_updated_on>2019-07-08 17:39:33</sys_updated_on>
+        <title>Good Afternoon, Shelita! How can we help?</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"typeahead_search": {
+		"value": "Search for tickets and information",
+		"displayValue": "Search for tickets and information"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=83e27749dbe233001a961120399619f4"/>
+</record_update>
